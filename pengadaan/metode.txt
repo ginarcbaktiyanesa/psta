@@ -1,0 +1,27 @@
+1. MRP
+Material Requirement Planning (MRP) adalah
+suatu perencanaan dan penjadwalan kebutuhan
+material untuk proses produksi yang memerlukan
+beberapa tahapan proses dengan kata lain adalah
+suatu rencana produksi untuk jumlah produk yang
+diterjemahkan kedalam bahan mentah yang
+dibutuhkan dengan menggunakan waktu tenggang
+sehingga dapat ditentukan kapan dan berapa banyak
+bahan yang diperlukan untuk masing-masing
+komponen suatu produk yang dibuat. MRP bertujuan
+untuk meminimumkan persediaan, meningkatkan
+efisiensi, mengurangi resiko karena keterlambatan 
+produksi atau pengiriman. Selain itu juga MRP akan
+menghasilkan output dari perhitungan yaitu Jadwal
+Produksi Induk, Struktur Produk, Status Persediaan.
+Oleh karena itu Material Requirement Planning (MRP)
+merupakan metode yang tepat untuk digunakan dalam
+penelitian ini.
+
+Salah satu metode pendekatan yang
+mampu mengatasi pengendalian bahan baku produksi adalah Material
+Requirement Planning, MRP adalah suatu metode untuk menentukan apa, kapan,
+dan berapa jumlah komponen dan material yang dibutuhkan untuk memenuhi
+kebutuhan dari suatu perencanaan produksi, selain itu metode MRP dapat
+diterapkan untuk mengatasi masalah persediaan bahanbaku sesuai dengan
+karakteristik perusahaan yang sesuai dengan karakteristik metode MRP.
